@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseInMemory", "DataBaseInMemory\DataBaseInMemory.csproj", "{B8D11EC9-65C7-4BA5-BB22-BC83DC04BDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D11EC9-65C7-4BA5-BB22-BC83DC04BDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D11EC9-65C7-4BA5-BB22-BC83DC04BDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D11EC9-65C7-4BA5-BB22-BC83DC04BDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D11EC9-65C7-4BA5-BB22-BC83DC04BDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534D9D33-D4F0-48D7-9935-E69E5C9DD98D}
+	EndGlobalSection
+EndGlobal
